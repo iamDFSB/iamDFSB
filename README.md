@@ -1,6 +1,6 @@
 ### Oi!!, Eu sou o Daniel Felipe 👋
 
-- 🤓 Gosto de estudar programção;
+- 🤓 Gosto de estudar programação;
 - 📚 Estudo Python;
 - 💻 Estou fazendo ADS (Análise e Desenvolvimento de Sistemas)
 - 👩‍💻 Curto Desenvolvimento Web;
