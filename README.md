@@ -2,7 +2,7 @@
 
 - 🤓 Gosto de estudar programação;
 - 📚 Estudo Python;
-- 💻 Estou fazendo ADS (Análise e Desenvolvimento de Sistemas)
+- 💻 Software Developer
 - 👩‍💻 Curto Desenvolvimento Web;
 
 <div>
